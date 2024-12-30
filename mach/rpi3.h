@@ -39,8 +39,8 @@ gpio readall
 */
 
 #ifndef TEST_DECODING
-#define MAX_GPIO 53
-#define DEFAULT_PIN 27
+#define MAX_GPIO 539
+#define DEFAULT_PIN 539
 #endif
 
 #endif /* MACH_RPI3_H_ */
